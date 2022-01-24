@@ -1,7 +1,7 @@
 <template>
   <section>
     <base-card>
-      <h2>How was you learning experience?</h2>
+      <h2>How was you experience?</h2>
       <form @submit.prevent="submitSurvey">
         <div class="form-control">
           <label for="name">Your Name</label>
